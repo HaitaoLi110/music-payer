@@ -7,7 +7,7 @@ https://github.com/zce/music-player-pages
 ## Clone it
 
 ```bash
-$ git clone https://github.com/zce/music-player.git -b vue --depth 1
+$ git clone https://github.com/HaitaoLi110/music-player.git -b vue --depth 1
 $ cd music-player
 ```
 
