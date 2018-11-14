@@ -27,11 +27,5 @@ $ npm run serve
 
 visit http://localhost:2010/music/list in browser
 
-### Client Side
 
-Open another Terminal and run:
-
-```bash
-$ npm run client
-```
 
